@@ -1,0 +1,66 @@
+const productos = [
+  {
+    id: 1,
+    nombre: "Cabezal movil de Descarga",
+    precio: 8000,
+    img:['img/cabezal-7r.png'],
+    cantidad: 1,
+  },
+  {
+    id: 2,
+    nombre: "Flash",
+    precio: 4500,
+    img:['img/flash.png'],
+    cantidad: 1,
+  },
+  {
+    id: 3,
+    nombre: "Araña Led",
+    precio: 5000,
+    img:['img/araña.png'],
+    cantidad: 1,
+  },
+  {
+    id: 4,
+    nombre: "Quatro Beam",
+    precio: 4500,
+    img:['img/quadbeam.png'],
+    cantidad: 1,
+  },
+  {
+    id: 5,
+    nombre: "Mojo Scan",
+    precio: 3000,
+    img:['img/mojo.png'],
+    cantidad: 1,
+  },
+  {
+    id: 6,
+    nombre: "Laser Dibujos",
+    precio: 8000,
+    img:['img/laser.png'], 
+    cantidad: 1,
+  },
+  {
+    id: 7,
+    nombre: "Wash",
+    precio: 2500,
+    img:['img/proton.png'],
+    cantidad: 1,
+  },
+  {
+    id: 8,
+    nombre: "Maquina de Humo",
+    precio: 6500,
+    img:['img/humo-techo.png'],
+    cantidad: 1,
+  },
+  {
+    id: 9,
+    nombre: "Flash",
+    precio: 4500,
+    img:['img/flash.png'],
+    cantidad: 1,
+  },
+  
+];
